@@ -1,0 +1,7 @@
+# Sample script
+ADD(115,118)
+SUB(118,115)
+MUL(5, 2)
+DIV(10,2)
+
+
